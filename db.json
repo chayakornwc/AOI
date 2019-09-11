@@ -1,62 +1,64 @@
 {
-    "name": "SECOND CAMPAIGN",
-    "duration": "2018-12-31 00:00:00",
-    "week_reached": 2510,
-    "last_week": "+29.7%",
-    "this_week": "-53.4%",
-    "performance": "-0.05%",
-    "total_reach": [
-        {
-            "name": "Jan 1",
-            "reach": 40
-        },
-        {
-            "name": "Jan 2",
-            "reach": 80
-        },
-        {
-            "name": "Jan 3",
-            "reach": 50
-        },
-        {
-            "name": "Jan 4",
-            "reach": 90
-        },
-        {
-            "name": "Jan 6",
-            "reach": 100
-        },
-        {
-            "name": "Jan 7",
-            "reach": 30
-        },
-        {
-            "name": "Jan 8",
-            "reach": 60
-        }
-    ],
-    "locale": [
-        {
-            "name": "Bangkok",
-            "percentage": 37
-        },
-        {
-            "name": "Chiang Mai",
-            "percentage": 45
-        },
-        {
-            "name": "Bangkok",
-            "percentage": 18
-        }
-    ],
-    "audience_gender": {
-        "female": {
-            "last_week": 123,
-            "this_week": 150
-        },
-        "male": {
-            "last_week": 111,
-            "this_week": 98
+    "conversion_summary": {
+        "name": "SECOND CAMPAIGN",
+        "duration": "2018-12-31 00:00:00",
+        "week_reached": 2510,
+        "last_week": "+29.7%",
+        "this_week": "-53.4%",
+        "performance": "-0.05%",
+        "total_reach": [
+            {
+                "name": "Jan 1",
+                "reach": 40
+            },
+            {
+                "name": "Jan 2",
+                "reach": 80
+            },
+            {
+                "name": "Jan 3",
+                "reach": 50
+            },
+            {
+                "name": "Jan 4",
+                "reach": 90
+            },
+            {
+                "name": "Jan 6",
+                "reach": 100
+            },
+            {
+                "name": "Jan 7",
+                "reach": 30
+            },
+            {
+                "name": "Jan 8",
+                "reach": 60
+            }
+        ],
+        "locale": [
+            {
+                "name": "Bangkok",
+                "percentage": 37
+            },
+            {
+                "name": "Chiang Mai",
+                "percentage": 45
+            },
+            {
+                "name": "Bangkok",
+                "percentage": 18
+            }
+        ],
+        "audience_gender": {
+            "female": {
+                "last_week": 123,
+                "this_week": 150
+            },
+            "male": {
+                "last_week": 111,
+                "this_week": 98
+            }
         }
     }
 }
